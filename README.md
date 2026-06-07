@@ -1,1 +1,1 @@
-cvpr2026regions.github.pages
+cvpr2026regions.github.io
